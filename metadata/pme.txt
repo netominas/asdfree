@@ -13,6 +13,9 @@ publication_period: * Released monthly since March 2002.
 
 administrative_organization: * Administered by the [Instituto Brasileiro de Geografia e Estatistica](http://www.ibge.gov.br/).
 
+administrative_organization: * Website information by the [MEB](https://maisempregobrasil.com/).
+
+
 
 
 needs_catalog_block: yes
